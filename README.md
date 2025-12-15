@@ -32,7 +32,7 @@ A highly passionate full stack developer who loves, creating  web services APIs,
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1PVm7dDZJBdbYHORSeJk-cHywLNYH2wDT/view?usp=share_link)
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://stunning-sunflower-d6975f.netlify.app/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://jitu-yadav-0l94kj7.gamma.site/)
 
 - 📫 How to reach me: **jy904147@gmail.com**
 
