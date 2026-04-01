@@ -71,10 +71,6 @@ A highly passionate full stack developer who loves, creating  web services APIs,
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitu1212&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="jitu1212" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jitu1212&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="jitu1212"/></p>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jitu1212&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=jitu1212&theme=xcode"> -->
